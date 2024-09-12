@@ -1,0 +1,5 @@
+- meu nome e felix clementino lopes neto
+- estou estudando na alura https://www.alura.com.br
+- estou me desenvolvendo na linguagem javascript
+- voce pode entrar em contato comigo em:
+- 00001124524952sp@al.educacao.sp.gov.br
